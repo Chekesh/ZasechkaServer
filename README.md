@@ -36,7 +36,7 @@
 
 ## Установка приложения:
 Импортируете данный проект к свою среду разработки. Открываем проект и заходим класс ZasechkaServerApplication, запускаем.
-![Картинка]()
+![Картинка](https://github.com/Chekesh/ZasechkaServer/blob/master/photo/%D0%B7%D0%B0%D0%BF%D1%83%D1%81%D0%BA.png)
 
 Наш сервер готов! 
 
