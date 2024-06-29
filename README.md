@@ -30,7 +30,8 @@
 - IntelliJ IDEA
 - PostgreSQL
 - Java
-- Spring Framework 
+- Spring Framework
+- Postman
 
 ## Разработчик:
 Разработчиком приложения является Чекушин Никита, студент группы 21ИТ17 (ИТ - колледжа)
